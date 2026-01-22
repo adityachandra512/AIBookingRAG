@@ -30,9 +30,10 @@ graph TD
 
 | Component | Model | Provider |
 | :--- | :--- | :--- |
-| **Large Language Model (LLM)** | `gemini-1.5-flash` | Google AI Studio |
-| **Embeddings** | `models/embedding-001` | Google AI Studio |
+| **Large Language Model (LLM)** | `gemini-3-flash-preview` | Google AI Studio |
+| **Embeddings** | `models/gemini-embedding-001` | Google AI Studio |
 | **Vector Database** | `FAISS` | Facebook Research |
+
 
 ## 📸 Demo Screenshots
 
@@ -40,15 +41,15 @@ graph TD
 > Add your screenshots here to showcase the app!
 
 ### Main Interface
-![Main Interface PlaceHolder](https://via.placeholder.com/800x450?text=AI+Booking+Assistant+Interface)
+![Main Interface PlaceHolder](https://drive.google.com/file/d/1EIsYaEOdG1pFEcP7QON0vtiYB7zoPC8c/view?usp=drive_link)
 *Description: The main chat interface with the premium sidebar navigation.*
 
 ### Conversational Booking
-![Booking Flow PlaceHolder](https://via.placeholder.com/800x450?text=Conversational+Booking+Flow)
+![Booking Flow PlaceHolder](https://drive.google.com/file/d/1qU4m41d8MWSPqOt6TFz4O6A-mPcfBFrC/view?usp=drive_link)
 *Description: Demonstrating the multi-turn conversation used to collect booking details.*
 
 ### Admin Dashboard
-![Admin Dashboard PlaceHolder](https://via.placeholder.com/800x450?text=Admin+Booking+Dashboard)
+![Admin Dashboard PlaceHolder](https://drive.google.com/file/d/1UdZUODh8f9qo_nLb5ZIlQgkTGBTEU9Kb/view?usp=drive_link)
 *Description: The secure dashboard where admins can view all appointments.*
 
 ## 🛠️ User Manual: Setup Guide
@@ -118,3 +119,8 @@ streamlit run app.py
 
 ### 4. Deployment
 This app is ready for deployment on **Streamlit Cloud**. Ensure all environment variables are added to your hosting provider's dashboard.
+
+
+Created BY:
+🧑‍🦱Name:- Aditya Chandra
+📩Contact :- adityachandra419@gmail.com
