@@ -30,9 +30,10 @@ graph TD
 
 | Component | Model | Provider |
 | :--- | :--- | :--- |
-| **Large Language Model (LLM)** | `gemini-1.5-flash` | Google AI Studio |
-| **Embeddings** | `models/embedding-001` | Google AI Studio |
+| **Large Language Model (LLM)** | `gemini-3-flash-preview` | Google AI Studio |
+| **Embeddings** | `models/gemini-embedding-001` | Google AI Studio |
 | **Vector Database** | `FAISS` | Facebook Research |
+
 
 ## 📸 Demo Screenshots
 
