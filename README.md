@@ -41,7 +41,7 @@ graph TD
 > Add your screenshots here to showcase the app!
 
 ### Main Interface
-![Main Interface PlaceHolder](https://drive.google.com/file/d/1EIsYaEOdG1pFEcP7QON0vtiYB7zoPC8c/view?usp=drive_link)
+![Main Interface PlaceHolder](Mainpage.png)
 *Description: The main chat interface with the premium sidebar navigation.*
 
 ### Conversational Booking
