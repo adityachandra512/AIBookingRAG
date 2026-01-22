@@ -34,6 +34,8 @@ graph TD
 | **Embeddings** | `models/gemini-embedding-001` | Google AI Studio |
 | **Vector Database** | `FAISS` | Facebook Research |
 
+## Demo Document:- Document 5.pdf
+can be use for the testing the product
 
 ## 📸 Demo Screenshots
 
