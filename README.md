@@ -45,12 +45,16 @@ graph TD
 *Description: The main chat interface with the premium sidebar navigation.*
 
 ### Conversational Booking
-![Booking Flow PlaceHolder](https://drive.google.com/file/d/1qU4m41d8MWSPqOt6TFz4O6A-mPcfBFrC/view?usp=drive_link)
+![Booking Flow PlaceHolder](Bookingpage.png)
 *Description: Demonstrating the multi-turn conversation used to collect booking details.*
 
 ### Admin Dashboard
-![Admin Dashboard PlaceHolder](https://drive.google.com/file/d/1UdZUODh8f9qo_nLb5ZIlQgkTGBTEU9Kb/view?usp=drive_link)
+![Admin Dashboard PlaceHolder](AdminPage.png)
 *Description: The secure dashboard where admins can view all appointments.*
+
+### Mail Confirmation
+![Mail Confirmation PlaceHolder](ConfirmMail.png)
+*Description: Mail Confirmation of appointments on the Gmail.*
 
 ## 🛠️ User Manual: Setup Guide
 
