@@ -1,0 +1,12 @@
+streamlit
+flask
+supabase
+langchain
+langchain-google-genai
+langchain-groq
+langchain-text-splitters
+PyPDF2
+faiss-cpu
+streamlit-option-menu
+python-dotenv
+requests
