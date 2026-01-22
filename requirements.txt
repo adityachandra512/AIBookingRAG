@@ -5,6 +5,7 @@ langchain
 langchain-google-genai
 langchain-groq
 langchain-text-splitters
+langchain-community
 PyPDF2
 faiss-cpu
 streamlit-option-menu
