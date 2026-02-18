@@ -34,29 +34,22 @@ graph TD
 | **Embeddings** | `models/gemini-embedding-001` | Google AI Studio |
 | **Vector Database** | `FAISS` | Facebook Research |
 
-## Demo Document:- Document 5.pdf
-can be use for the testing the product
-
 ## 📸 Demo Screenshots
 
 > [!NOTE]
 > Add your screenshots here to showcase the app!
 
 ### Main Interface
-![Main Interface PlaceHolder](Mainpage.png)
+![Main Interface PlaceHolder](https://via.placeholder.com/800x450?text=AI+Booking+Assistant+Interface)
 *Description: The main chat interface with the premium sidebar navigation.*
 
 ### Conversational Booking
-![Booking Flow PlaceHolder](Bookingpage.png)
+![Booking Flow PlaceHolder](https://via.placeholder.com/800x450?text=Conversational+Booking+Flow)
 *Description: Demonstrating the multi-turn conversation used to collect booking details.*
 
 ### Admin Dashboard
-![Admin Dashboard PlaceHolder](AdminPage.png)
+![Admin Dashboard PlaceHolder](https://via.placeholder.com/800x450?text=Admin+Booking+Dashboard)
 *Description: The secure dashboard where admins can view all appointments.*
-
-### Mail Confirmation
-![Mail Confirmation PlaceHolder](ConfirmMail.png)
-*Description: Mail Confirmation of appointments on the Gmail.*
 
 ## 🛠️ User Manual: Setup Guide
 
@@ -125,8 +118,3 @@ streamlit run app.py
 
 ### 4. Deployment
 This app is ready for deployment on **Streamlit Cloud**. Ensure all environment variables are added to your hosting provider's dashboard.
-
-
-Created BY:
-🧑‍🦱Name:- Aditya Chandra
-📩Contact :- adityachandra419@gmail.com
